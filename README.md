@@ -1,4 +1,4 @@
-# Open with Vercal
+# Live Link :
 
 https://pics-react-theta.vercel.app/
 
